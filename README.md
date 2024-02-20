@@ -1,7 +1,7 @@
 ### Hello, welcome!
 Thanks for being here.
 
-Currently, Im working at VMLY&R for the UI/UX Design team, specifically for Ford Brazil.
+Currently, Im working at VML for the UI/UX Design team, specifically for Ford Brazil.
 In the last few months I rediscovered myself as a Software Engineer/Developer, now I am looking for an opportunity in this area.
 
 In my spare time, I like to play Chess, RPG, listen to and make music (guitar and drums) and watch Anime.
